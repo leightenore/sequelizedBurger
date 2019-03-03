@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/clear_sky-subtle_light_blue_texture.jpg");
+    font-family: 'Fredoka One', cursive;
+}
+
+div.image {
+    content:url("../img/logo.png");
+    height: 250px;
+}
+
+div.burgerGif {
+    content:url("../img/goodburger.gif");
+    height: 190px;
+    margin-top: 25px;
+}
+
+#addBurger {
+    border: solid;
+    border-width: 1px;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.849);
+}
+
+#addForm {
+    margin-top: 20px;
+}
+
+li {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+ul {
+    padding-top: 13px;
+}
+
+button {
+    font-family: sans-serif;
+}
+
+.container {
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
